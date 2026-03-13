@@ -6,7 +6,7 @@ body {
     overflow-y: auto;
     margin: 0;
 	background: linear-gradient(315deg, green 3%, black 38%, green 68%, black 98%);
-    animation: gradient 20s ease infinite;
+    animation: gradient 200s ease infinite;
     background-size: 400% 400%;
     background-attachment: fixed;
 }
